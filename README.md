@@ -11,4 +11,4 @@ Enjoy.
 # Usage:
 Run from the command line: ./simple-box-scanner <IP> <Box Name>
 
-(I recommend adding a alias to your ~./bashrc file)
+(I recommend adding an alias to your ~./bashrc file)
