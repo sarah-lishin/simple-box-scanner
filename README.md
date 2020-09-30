@@ -1,6 +1,8 @@
 # simple-box-scanner
 A simple script to automate nmap, nikto, dirb, wpscan, and enum4linux scans.
 
+Available in Python or Bash, pick your favorite. 
+
 # About:
 Written by fiolet. 
 A simple tool to run nmap with cve, nikto, dirb with common wordlist, wpscan, and enum4linux with a single command.
