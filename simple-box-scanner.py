@@ -33,7 +33,7 @@ def nmap_func():
 def nikto_func():
     f_nikto = open(nikto_file, "w")
     # The -ask=auto option will send updates to the DB if any are found.
-    # Change to NO if you do not want this.
+    # Change to -auto=NO if you do not want this.
     subprocess.call(["nikto", "-ask=auto", "-host", ipAddr], stdout=f_nikto)
 
 
